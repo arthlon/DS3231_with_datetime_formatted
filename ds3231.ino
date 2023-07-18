@@ -1,5 +1,4 @@
 #include "RTC.h"
-#include <string>
 
 RTC rtc;
 
